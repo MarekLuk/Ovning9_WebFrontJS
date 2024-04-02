@@ -1,0 +1,23 @@
+header {
+	background-color: #fee3dd;
+}
+
+section {
+	background-color: #daccc9;
+}
+
+footer {
+	background-color: #f5f4f3;
+}
+
+label {
+}
+
+input.form-control {
+	border: 2px solid green;
+	border-radius: 5px;
+}
+
+#bishbashresult > :nth-child(odd) {
+	background-color: #e6e6e6;
+}
